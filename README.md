@@ -14,3 +14,9 @@ python monitor.py 0xYourAddress --limit 5
 ```
 
 ## Output
+👁️  Watching 0x1234abcd... for storage events
+✅ [14:32:01] shelby::blob::register_blob
+tx: 0xabc123...
+
+## License
+MIT
